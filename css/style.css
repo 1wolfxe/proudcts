@@ -1,0 +1,60 @@
+body{
+    padding: 0px;
+    background-color: rgb(175, 182, 182) ;
+    margin: auto;
+    display: grid;
+}
+header , footer{
+    border-radius: 10px;
+    border: 1px solid;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: auto;
+    color: rgb(15, 97, 97);
+}
+.pro1 img{
+    padding: 15px;
+    border: 1px solid;
+     border-radius: 5px;
+    box-shadow: 1px ;
+    justify-self: center;
+    display: grid;
+    
+}
+.pro1 h3
+{
+text-align: center;
+}
+.pro1 p
+{
+    text-align: center;
+}
+.pro1 h1
+{
+    text-align: center;
+}
+.pro1 img:hover
+{
+ padding: 50px;
+ border: 1px rgb(0, 43, 129) solid;
+ border-radius: 10px;
+ box-shadow: 1xp rgb(0, 6, 17) rgb(233, 0, 0);
+ transition: all 0.1s;
+}
+
+p a
+{
+color: #000;
+text-decoration: none;
+text-shadow: 1px;
+border: 1px solid rgb(15, 97, 97);
+border-radius: 5px;
+padding: 2px;
+
+
+}
+p a:hover
+{
+padding: 5px;
+transition: all 1.ms;
+}
